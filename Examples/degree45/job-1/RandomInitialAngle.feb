@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<febio_spec version="4.0">
+
+<Initial>
+  <ic name="InitialAngle" node_set="1" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="2" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="3" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="4" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="5" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="6" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="7" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="8" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="9" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="10" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="11" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="12" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="13" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="14" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="15" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="16" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="17" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="18" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="19" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="20" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="21" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="22" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="23" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="24" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="25" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="26" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="27" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="28" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="29" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="30" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="31" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="32" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="33" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="34" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="35" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="36" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="37" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="38" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="39" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="40" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="41" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="42" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="43" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="44" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="45" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="46" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="47" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="48" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="49" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="50" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="51" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="52" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="53" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="54" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="55" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="56" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="57" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="58" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="59" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="60" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="61" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="62" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="63" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="64" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="65" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="66" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="67" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="68" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="69" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="70" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="71" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="72" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="73" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="74" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="75" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="76" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="77" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="78" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="79" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="80" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="81" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="82" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="83" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="84" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="85" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="86" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="87" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="88" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="89" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="90" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="91" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="92" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="93" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="94" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="95" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="96" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="97" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="98" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="99" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="100" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="101" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="102" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="103" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="104" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="105" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="106" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="107" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="108" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="109" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="110" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="111" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="112" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="113" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="114" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="115" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="116" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="117" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="118" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="119" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="120" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="121" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="122" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="123" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="124" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="125" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="126" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="127" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="128" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="129" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="130" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="131" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="132" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="133" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="134" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="135" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="136" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="137" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="138" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="139" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="140" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="141" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="142" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="143" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="144" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="145" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="146" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="147" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="148" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="149" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="150" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="151" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="152" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="153" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="154" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="155" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="156" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="157" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="158" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="159" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="160" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="161" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="162" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="163" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="164" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="165" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="166" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="167" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="168" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="169" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="170" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="171" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="172" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="173" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="174" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="175" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="176" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="177" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="178" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="179" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="180" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="181" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="182" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="183" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="184" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="185" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="186" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="187" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="188" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="189" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="190" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="191" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="192" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="193" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="194" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="195" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="196" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="197" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="198" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="199" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="200" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="201" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="202" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="203" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="204" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="205" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="206" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="207" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="208" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="209" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="210" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="211" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="212" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="213" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="214" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="215" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="216" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="217" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="218" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="219" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="220" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="221" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="222" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="223" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="224" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="225" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="226" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="227" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="228" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="229" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="230" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="231" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="232" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="233" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="234" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="235" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="236" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="237" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="238" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="239" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="240" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="241" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="242" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="243" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="244" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="245" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="246" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="247" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="248" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="249" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="250" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="251" type="director angle">
+    <value>1.5709</value>
+  </ic>
+  <ic name="InitialAngle" node_set="252" type="director angle">
+    <value>1.5709</value>
+  </ic>
+</Initial>
