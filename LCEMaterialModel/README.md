@@ -1,0 +1,1 @@
+This folder contains material code for the viscoelastic phenomema described in the paper. The Folders contain the c++ file "FELCEMaterial444" which need to be copied, moved to src/FEBioMech replacing the original according the phenomena that need to be simulated. The c++ file "FELCEInitialAngle.cpp" needs to be edited for the required initial angle and moved to src/FEBioMech.
